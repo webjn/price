@@ -12,6 +12,12 @@ body {
     min-width: 260px;
 }
 
+@media (max-width: 300px){
+    .section {
+max-width: 260px;
+    }
+}
+
 .section h2 {
     color: #61a29f;
 }
